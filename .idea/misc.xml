@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/xmall-content/xmall-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/xmall-front-web" />
+    <file type="web" url="file://$PROJECT_DIR$/xmall-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/xmall-manager/xmall-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/xmall-search/xmall-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/xmall-sso/xmall-sso-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/xmall-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-sso/xmall-sso-service/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-sso-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-sso/xmall-sso-service/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-sso-service/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-sso/xmall-sso-service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-sso/xmall-sso-interface/target/classes/META-INF/maven/cn.exrick/xmall-sso-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-sso/xmall-sso-interface/target/classes/META-INF/maven/cn.exrick/xmall-sso-interface/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-sso/xmall-sso-interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-common/target/classes/META-INF/maven/cn.exrick/xmall-common/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-common/target/classes/META-INF/maven/cn.exrick/xmall-common/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-common/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-common/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-search/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-search/xmall-search-service/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-search/xmall-search-service/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-search-service/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-search/xmall-search-service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-search/xmall-search-interface/target/classes/META-INF/maven/cn.exrick/xmall-search-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-search/xmall-search-interface/target/classes/META-INF/maven/cn.exrick/xmall-search-interface/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-search/xmall-search-interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-content/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-content/xmall-content-service/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-content/xmall-content-service/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-content-service/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-content/xmall-content-service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-content/xmall-content-interface/target/classes/META-INF/maven/cn.exrick/xmall-content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-content/xmall-content-interface/target/classes/META-INF/maven/cn.exrick/xmall-content-interface/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-content/xmall-content-interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-dao/target/classes/META-INF/maven/cn.exrick/xmall-manager-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-dao/target/classes/META-INF/maven/cn.exrick/xmall-manager-dao/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-dao/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-pojo/target/classes/META-INF/maven/cn.exrick/xmall-manager-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-pojo/target/classes/META-INF/maven/cn.exrick/xmall-manager-pojo/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-pojo/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-service/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-service/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-manager-service/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-interface/target/classes/META-INF/maven/cn.exrick/xmall-manager-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-interface/target/classes/META-INF/maven/cn.exrick/xmall-manager-interface/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager/xmall-manager-interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-front-web/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-front-web/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-front-web/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-front-web/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-front-web/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-front-web/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-manager-web/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/xmall-manager-web/target/m2e-wtp/web-resources/META-INF/maven/cn.exrick/xmall-manager-web/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager-web/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/xmall-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/target/classes/META-INF/maven/cn.exrick/generatorSqlmapCustom/pom.xml" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/target/classes/META-INF/maven/cn.exrick/generatorSqlmapCustom/pom.properties" />
+        <option value="$PROJECT_DIR$/generatorSqlmapCustom/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="xmall" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

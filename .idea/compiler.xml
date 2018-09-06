@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="generatorSqlmapCustom (1)" />
+        <module name="generatorSqlmapCustom (2)" />
+        <module name="generatorSqlmapCustom (3)" />
+        <module name="maven-archiver (1)" />
+        <module name="maven-archiver (10)" />
+        <module name="maven-archiver (11)" />
+        <module name="maven-archiver (12)" />
+        <module name="maven-archiver (13)" />
+        <module name="maven-archiver (2)" />
+        <module name="maven-archiver (3)" />
+        <module name="maven-archiver (4)" />
+        <module name="maven-archiver (5)" />
+        <module name="maven-archiver (6)" />
+        <module name="maven-archiver (7)" />
+        <module name="maven-archiver (8)" />
+        <module name="maven-archiver (9)" />
+        <module name="xmall-common (1)" />
+        <module name="xmall-common (2)" />
+        <module name="xmall-common (3)" />
+        <module name="xmall-content-interface (1)" />
+        <module name="xmall-content-interface (2)" />
+        <module name="xmall-content-interface (3)" />
+        <module name="xmall-content-service (1)" />
+        <module name="xmall-content-service (2)" />
+        <module name="xmall-content-service (3)" />
+        <module name="xmall-front-web (1)" />
+        <module name="xmall-front-web (2)" />
+        <module name="xmall-front-web (3)" />
+        <module name="xmall-manager-dao (1)" />
+        <module name="xmall-manager-dao (2)" />
+        <module name="xmall-manager-dao (3)" />
+        <module name="xmall-manager-interface (1)" />
+        <module name="xmall-manager-interface (2)" />
+        <module name="xmall-manager-interface (3)" />
+        <module name="xmall-manager-pojo (1)" />
+        <module name="xmall-manager-pojo (2)" />
+        <module name="xmall-manager-pojo (3)" />
+        <module name="xmall-manager-service (1)" />
+        <module name="xmall-manager-service (2)" />
+        <module name="xmall-manager-service (3)" />
+        <module name="xmall-manager-web (1)" />
+        <module name="xmall-manager-web (2)" />
+        <module name="xmall-manager-web (3)" />
+        <module name="xmall-search-interface (1)" />
+        <module name="xmall-search-interface (2)" />
+        <module name="xmall-search-interface (3)" />
+        <module name="xmall-search-service (1)" />
+        <module name="xmall-search-service (2)" />
+        <module name="xmall-search-service (3)" />
+        <module name="xmall-sso-interface (1)" />
+        <module name="xmall-sso-interface (2)" />
+        <module name="xmall-sso-interface (3)" />
+        <module name="xmall-sso-service (1)" />
+        <module name="xmall-sso-service (2)" />
+        <module name="xmall-sso-service (3)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
